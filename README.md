@@ -1,2 +1,2 @@
 # gitCommands
-Shows Git Commands
+A Place For Git Commands
